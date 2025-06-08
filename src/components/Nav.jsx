@@ -38,9 +38,7 @@ export const Navbar = () => {
           <a href="/#about" className="hover:text-blue-700 transition">
             About
           </a>
-          <a href="/blogs" className="hover:text-blue-700 transition">
-            Blogs
-          </a>
+        
          
         </div>
 
