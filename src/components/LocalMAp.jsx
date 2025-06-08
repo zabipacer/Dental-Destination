@@ -33,7 +33,7 @@ const LocalSEOSection = () => {
           <p className="text-lg text-gray-700 mb-4">
             <strong>Phone:</strong>{' '}
             <a href="tel:+923350531591" className="text-blue-600 hover:underline">
-              +92 335-0531591
+              0335 0531591
             </a>
           </p>
           <p className="text-lg text-gray-700 mb-4">

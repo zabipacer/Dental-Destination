@@ -105,7 +105,7 @@ export default function HeroSection() {
           </div>
           <div className="flex items-start space-x-2 text-gray-700">
             <Phone className="w-5 h-5 mt-1 text-gray-800" />
-            <p className="text-base"><strong>Call:</strong> <a href="tel:+9230058031591" className="text-green-600 hover:underline">+92 300 580 31591</a></p>
+            <p className="text-base"><strong>Call:</strong> <a href="tel:03350531591" className="text-green-600 hover:underline"> 0335 0531591</a></p>
           </div>
           <div className="flex items-start space-x-2 text-gray-700">
             <Star className="w-5 h-5 mt-1 text-yellow-500" />
