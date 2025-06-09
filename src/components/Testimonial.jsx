@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 const testimonials = [
   {
     name: 'Ayesha R.',
-    text: 'Finding Dr. Ali was the best decision—my veneers look flawless, and I’ve never felt more confident!',
+    text: 'Finding Dr. Anum was the best decision—my veneers look flawless, and I’ve never felt more confident!',
     image: '/assets/images/T1.webp'
   },
   {

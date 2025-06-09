@@ -38,7 +38,7 @@ const DentalDestinationIntro = () => {
           Welcome to The Dental Destination
         </motion.h2>
         {[
-          `The Dental Destination is a patient-centered dental clinic in Islamabad dedicated to your comfort and care. When you visit us, you’ll receive complete attention from our experienced team, including general dentists, hygienists, and friendly staff.`,
+          `The Dental Destination is a patient-centered dental clinic in Islamabad dedicated to your comfort and care. When you visit us, you’ll receive complete attention from our experienced team, Including different dental specialists, hygienists, and friendly staff.`,
           `We take pride in delivering virtually pain-free treatments with a personal touch. If dental visits make you anxious, rest assured — we prioritize your peace of mind with calm surroundings, comfortable seating, and clear communication at every step.`,
           `Our clinic is equipped with modern dental technology like digital X-rays and advanced surgical tools to make your visits fast, safe, and effective — so you spend less time in the chair, and more time smiling.`,
         ].map((text, idx) => (
@@ -63,7 +63,7 @@ const DentalDestinationIntro = () => {
           The Dental Destination is now accepting new patients! We’re open on evenings and weekends to fit your busy schedule.
           <br />
           <a
-            href="https://wa.me/923216739504"
+            href="https://wa.me/+923350531591"
             className="underline hover:text-yellow-300"
           >
             Contact us today to book your first appointment.

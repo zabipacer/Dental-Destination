@@ -79,7 +79,7 @@ export default function HeroSection() {
             {slides[current].text}
           </p>
           <a
-            href="https://wa.me/9230058031591"
+            href="https://wa.me/+923350531591"
             className="inline-block bg-green-500 hover:bg-green-600 focus:ring-4 focus:ring-green-300 text-white font-medium px-8 py-4 rounded-lg shadow-lg transition-all"
             role="button"
             aria-label="Book an appointment via WhatsApp"
@@ -97,7 +97,7 @@ export default function HeroSection() {
           <h3 className="text-2xl font-semibold text-gray-800">Visit Us Locally</h3>
           <div className="flex items-start space-x-2 text-gray-700">
             <MapPin className="w-5 h-5 mt-1 text-gray-800" />
-            <p className="text-base"><strong>Address:</strong> House 580A, Street 19, Chaklala Scheme 3, Rawalpindi</p>
+            <p className="text-base"><strong>Address:</strong>580 Street 19, Chaklala Scheme 3 Chaklala Housing Scheme 3, Rawalpindi, 46000</p>
           </div>
           <div className="flex items-start space-x-2 text-gray-700">
             <Clock className="w-5 h-5 mt-1 text-gray-800" />

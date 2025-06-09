@@ -292,10 +292,10 @@ const FeaturedServices = () => {
         <div className="text-center mt-12">
           <p className="text-gray-600 mb-6">Ready to transform your smile? Contact Dental Destination Clinic today!</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="/book-appointment" className="px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-shadow shadow-lg">
+            <a href="https://api.whatsapp.com/send/?phone=%2B923350531591&text&type=phone_number&app_absent=0" className="px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-shadow shadow-lg">
               Book Appointment<ChevronRight className="w-5 h-5 inline ml-2" />
             </a>
-            <a href="/contact" className="px-8 py-3 bg-white text-blue-600 font-semibold rounded-lg border-2 border-blue-600 hover:bg-blue-50 transition-shadow">
+            <a href="mailto:zuhaib.zul@gmail.com" className="px-8 py-3 bg-white text-blue-600 font-semibold rounded-lg border-2 border-blue-600 hover:bg-blue-50 transition-shadow">
               Contact Us
             </a>
           </div>

@@ -34,10 +34,10 @@ const AppointmentBanner = () => {
       >
         Schedule your appointment today:&nbsp;
         <a
-          href="tel:+923216739504"
+          href="tel::03350531591"
           className="underline hover:text-yellow-300 font-medium"
         >
-          +92 321-6739504
+        03350531591
         </a>
         <br />
         <a
